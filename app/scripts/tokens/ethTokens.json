@@ -1199,4 +1199,9 @@
 "symbol":"LUM",
 "decimal":18,
 "type":"default"
+},{
+"address":"0x7A5fF295Dc8239d5C2374E4D894202aAF029Cab6",
+"symbol":"SLT",
+"decimal":3,
+"type":"default"
 }]
